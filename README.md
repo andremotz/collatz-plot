@@ -5,8 +5,8 @@ Released under the GNU GPL.
 Small Python-scatch I've created for one of my upcoming 
 Drum & Bass-EPs for MarcRenton.com
 
-![alt text](https://raw.githubusercontent.com/andre.motz/collatz-conjecture/master/example-pictures/collatz_1000000_markersize-0.1.jpg)
-![alt text](https://raw.githubusercontent.com/andre.motz/collatz-conjecture/master/example-pictures/cover_signal waves-80_smallsmall.jpg)
+![alt text](https://github.com/andremotz/collatz-plot/raw/master/example-pictures/collatz_1000000_markersize-0.1.jpg)
+![alt text](https://github.com/andremotz/collatz-plot/raw/master/example-pictures/cover_signal%20waves-80_smallsmall.jpg)
 
 For details checkout the Wikipedia-article and the Reddit-article: 
 - https://en.wikipedia.org/wiki/Collatz_conjecture
